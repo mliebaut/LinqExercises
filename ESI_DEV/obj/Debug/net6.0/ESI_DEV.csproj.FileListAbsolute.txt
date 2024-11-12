@@ -1,0 +1,15 @@
+C:\Users\ynoht\Documents\VisualStudioProjects\ESI_DEV\ESI_DEV\bin\Debug\net6.0\ESI_DEV.exe
+C:\Users\ynoht\Documents\VisualStudioProjects\ESI_DEV\ESI_DEV\bin\Debug\net6.0\ESI_DEV.deps.json
+C:\Users\ynoht\Documents\VisualStudioProjects\ESI_DEV\ESI_DEV\bin\Debug\net6.0\ESI_DEV.runtimeconfig.json
+C:\Users\ynoht\Documents\VisualStudioProjects\ESI_DEV\ESI_DEV\bin\Debug\net6.0\ESI_DEV.dll
+C:\Users\ynoht\Documents\VisualStudioProjects\ESI_DEV\ESI_DEV\bin\Debug\net6.0\ref\ESI_DEV.dll
+C:\Users\ynoht\Documents\VisualStudioProjects\ESI_DEV\ESI_DEV\bin\Debug\net6.0\ESI_DEV.pdb
+C:\Users\ynoht\Documents\VisualStudioProjects\ESI_DEV\ESI_DEV\obj\Debug\net6.0\ESI_DEV.csproj.AssemblyReference.cache
+C:\Users\ynoht\Documents\VisualStudioProjects\ESI_DEV\ESI_DEV\obj\Debug\net6.0\ESI_DEV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ynoht\Documents\VisualStudioProjects\ESI_DEV\ESI_DEV\obj\Debug\net6.0\ESI_DEV.AssemblyInfoInputs.cache
+C:\Users\ynoht\Documents\VisualStudioProjects\ESI_DEV\ESI_DEV\obj\Debug\net6.0\ESI_DEV.AssemblyInfo.cs
+C:\Users\ynoht\Documents\VisualStudioProjects\ESI_DEV\ESI_DEV\obj\Debug\net6.0\ESI_DEV.csproj.CoreCompileInputs.cache
+C:\Users\ynoht\Documents\VisualStudioProjects\ESI_DEV\ESI_DEV\obj\Debug\net6.0\ESI_DEV.dll
+C:\Users\ynoht\Documents\VisualStudioProjects\ESI_DEV\ESI_DEV\obj\Debug\net6.0\ref\ESI_DEV.dll
+C:\Users\ynoht\Documents\VisualStudioProjects\ESI_DEV\ESI_DEV\obj\Debug\net6.0\ESI_DEV.pdb
+C:\Users\ynoht\Documents\VisualStudioProjects\ESI_DEV\ESI_DEV\obj\Debug\net6.0\ESI_DEV.genruntimeconfig.cache
